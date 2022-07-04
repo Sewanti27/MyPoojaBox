@@ -1,0 +1,350 @@
+table, .ImageTextMargin {
+  font-family: 'Hind', sans-serif;
+  font-size: 14px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: #3F4E4F;
+}
+h5{
+  color:white;
+}
+.fontRakhi {
+  font-family: 'Gentium Book Plus', serif;
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+.topMostDiv {
+  background-color: #e85992;
+  color: white;
+  text-align: center;
+  padding: 0.8rem 1rem;
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  line-height: 0.75;
+}
+.form-select{
+  width:10rem;
+  text-align: center;
+}
+.topImage {
+  width: 100%;
+  height: auto;
+}
+
+.Background {
+  background-color: white;
+}
+.border1{
+  border-right: 1px solid;
+  border-color:black;
+}
+.buttoncolumn {
+  padding-right: 0;
+}
+.buttonrow{
+  margin-top:7%;
+}
+.card {
+  border-style: none;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.carousel {
+  margin-top: 3%;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.ImageTextMargin {
+  text-align: center;
+}
+
+.fontRakhi {
+  font-weight: 600;
+}
+.iconsection{
+  border-top: 1.5px solid;
+  border-color: #E4DCCF;
+  padding-top: 1%;
+}
+.item {
+  overflow: hidden;
+}
+
+.Instagram {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+.letter{
+  letter-spacing: 1.5px;
+  font-weight: 700;
+}
+.deliveryIcons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.delivery{
+  color:black;
+  font-size: 0.2rem;
+}
+/**Section 1 Image Change*/
+.image1:hover {
+  content: url("Images/ChangeRakhi1.jpg");
+}
+
+.image2:hover {
+  content: url("Images/Rakhi1Change.jpg")
+}
+
+.image3:hover {
+  content: url("Images/Change3.jpg")
+}
+
+.image4:hover {
+  content: url("Images/ATMChange.jpg")
+}
+
+.image5:hover {
+  transform: scale(1.1);
+}
+
+/*Section 2 Image Change*/
+.imageCrystal:hover {
+  content: url("Images/CrystalChange.jpg")
+}
+
+.imageCrystal1:hover {
+  content: url("Images/StoneChange.jpg")
+}
+
+.imageCrystal2:hover {
+  transform: scale(1.08);
+}
+
+.imageCrystal3:hover {
+  content: url("Images/Stoneaim.jpg");
+  width: 12rem;
+  height: 12rem;
+}
+
+.Stick:hover {
+  content: url("Images/StickChange.jpg")
+}
+
+.Tea:hover {
+  content: url("Images/TeaChange.png")
+}
+
+/*Section 3 Image Change*/
+.Ganesh1:hover {
+  content: url("Images/Ganesh1Change.jpg")
+}
+
+.Ganesh2:hover {
+  content: url("Images/Ganesh2Change.jpg")
+}
+
+.Ganesh3:hover {
+  content: url("Images/Ganesh4Change.jpg")
+}
+
+.LastGanesh:hover {
+  content: url("Images/LastGaneshChange.jpg")
+}
+
+.Ganesh:hover {
+  content: url("Images/Ganesh3Chnage.jpg")
+}
+
+/***Section 4 Image Chnage*/
+.Flower:hover {
+  content: url("Images/FlowerChange.jpg")
+}
+
+.Shiv:hover {
+  content: url("Images/Shiv.jpg")
+}
+
+.Lakshmi:hover {
+  content: url("Images/GaneshLakshmiChange.jpg")
+}
+
+.Shivling:hover {
+  content: url("Images/ShivlingChange.jpg")
+}
+
+.Krishna:hover {
+  content: url("Images/KrishnaChange.jpg")
+}
+
+.Light:hover {
+  content: url("Images/LightChange.jpg")
+}
+
+/*Section 5 Image Change*/
+.Buddha:hover {
+  content: url("Images/SaltLampChange1.jpg")
+}
+
+.SaltLamp22:hover {
+  content: url("Images/StoneLampChange.jpg")
+}
+
+.GaneshLamp:hover {
+  content: url("Images/GaneshLampChange.jpg");
+}
+
+.RectLamp:hover {
+  content: url("Images/RectLampChange.jpg")
+}
+
+.SecondLamp:hover {
+  content: url("Images/seconflastLampChange.jpg")
+}
+
+.LastLight:hover {
+  content: url("Images/LastLamp .jpg")
+}
+
+/**Section 6**/
+.Incense1:hover {
+  content: url("Images/Incense1.jpg")
+}
+
+.Incense2:hover {
+  content: url("Images/Incence.jpg")
+}
+
+.Box3:hover {
+  content: url("Images/PoojaBox3Change.jpg")
+}
+
+.Box4:hover {
+  content: url("Images/IncenseStick4Change.jpg")
+}
+
+.Box5:hover {
+  content: url("Images/Box5Change.jpg")
+}
+
+.Box6:hover {
+  transform: scale(1.1);
+}
+.carousel1{
+  margin-top: 1%;
+}
+
+.delivery1{
+  text-align: center;
+  margin-top: 2%;
+}
+/***Section 7***/
+.Evil1:hover {
+  content: url("Images/Evil1Change.jpg")
+}
+
+.Evil2:hover {
+  content: url("Images/Evil2Change.jpg");
+}
+
+.Evil3:hover {
+  transform: scale(1.1);
+}
+
+.Evil4:hover {
+  content: url("Images/feng-shui-blue-evil-eye-hangingChange.jpg")
+}
+
+.Evil5:hover {
+  content: url("Images/SecondLastEvilChnage.jpg")
+}
+
+.Evil6:hover {
+  content: url("Images/LastEvilChange.jpg")
+}
+
+.footerSection {
+  background-color: #ffafb6;
+  padding-top: 2%;
+  padding-left: 4%;
+}
+.facebook{
+  letter-spacing: 1.5px;
+  font-family: 'Hind', sans-serif;
+  font-size: 0.9rem;
+}
+.PoojaImage{
+  width:100%;
+  height:auto;
+}
+.round {
+  border-radius: 50%;
+  transition: 0.5s all ease-in-out;
+}
+
+.RakhiSection {
+  margin-top: 3%;
+}
+
+.read {
+  text-align: center;
+}
+
+.read1 {
+  text-decoration: none;
+  color: #D61C4E;
+}
+
+.round:hover {
+  transform: scale(1.1);
+}
+
+.ViewAllButton {
+  background-color: #D61C4E;
+  color: white;
+  border-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Hind', sans-serif;
+  font-size: 15px;
+  padding-top: 1%;
+}
+
+.secondfontchange {
+  font-size: 0.8rem;
+  margin-bottom: 7px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-family: 'Hind', sans-serif;
+  font-weight: 500;
+}
+
+.secondButton {
+  background-color: #D61C4E;
+  color: white;
+  width: 100%;
+  border-radius: 0;
+  padding: 1px;
+  font-family: 'Hind', sans-serif;
+  letter-spacing: 2px;
+}
+.widthproblem {
+  width: 100%;
+  min-width: 113%;
+  height: auto;
+}
+
+@media only screen and (max-width:497px) {
+  .buttoncolumn {
+    width: 100%;
+  }
+}
